@@ -1,0 +1,4 @@
+access:
+  - '*'
+
+controlEstate: gsam/dev-cluster-1
